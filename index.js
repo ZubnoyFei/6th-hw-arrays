@@ -6,6 +6,7 @@ while(true) {
         array.pop();
     }else {
         array.push(answer);
-    }console.log();
+    }
+    console.log(result);
 }
 }
