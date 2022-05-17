@@ -7,7 +7,7 @@ while(true) {
     }else {
         array.push(answer);
     }
-    console.log(result);
+    console.log(array);
 }
 }
 
