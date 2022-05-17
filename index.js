@@ -10,3 +10,6 @@ while(true) {
     console.log(result);
 }
 }
+
+
+pushToArray();
